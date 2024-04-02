@@ -1,3 +1,3 @@
-# youtube $ Twitter backend 
+# youtube & Twitter backend 
 
-this is youtube $ Twitter backend  project
+this is youtube & Twitter backend  project
