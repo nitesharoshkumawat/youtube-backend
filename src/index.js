@@ -8,7 +8,7 @@ import  mongoose from "mongoose";
 
 
 dotenv.config({
-    path: "./env"
+    path: "./.env"
 });
 
 
