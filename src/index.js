@@ -43,14 +43,14 @@ app.listen(8000, () =>{
 
 
 
-// / const kittySchema = new mongoose.Schema({
-    //     name: String
-    //   });
+//  const kittySchema = new mongoose.Schema({
+//         name: String
+//       });
     
-    //   const Kitty = mongoose.model("Kitty", kittySchema);
+//       const Kitty = mongoose.model("Kitty", kittySchema);
     
-    //  const Kitty1 = new Kitty({
-    //     name: "monkey"
-    //  })
+//      const Kitty1 = new Kitty({
+//         name: "monkey"
+//      })
     
-    //  Kitty1.save();
+//      Kitty1.save();
